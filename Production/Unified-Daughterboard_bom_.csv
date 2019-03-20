@@ -1,0 +1,19 @@
+Component,Description,Part,References,Value,Footprint,Quantity Per PCB,Datasheet
+1,"JST Connector, SR series, 4 pin, 1mm pitch - SM04B-SRSS-TB(LF)(SN)",Conn_01x04,J2,SM04B-SRSS-TB(LF)(SN),JST-SR-4,1,~
+2,USB Type-C Connector HRO TYPE-C-31-M-12,HRO-TYPE-C-31-M-12,J1,HRO-TYPE-C-31-M-12,HRO-TYPE-C-31-M-12-Assembly,1,
+3,"Resistor, small symbol",R_Small,R1 R2,5.1k,R_0603,2,~
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+Component Groups:,3,,,,,,
+Component Count:,4,,,,,,
+Fitted Components:,4,,,,,,
+Number of PCBs:,1,,,,,,
+Total components:,4,,,,,,
+Schematic Version:,,,,,,,
+Schematic Date:,,,,,,,
+BoM Date:,3/19/2019 21:51,,,,,,
+Schematic Source:,,,,,,,
+KiCad Version:,Eeschema (5.0.2)-1,,,,,,
