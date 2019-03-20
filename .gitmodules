@@ -1,0 +1,6 @@
+[submodule "Type-C.pretty"]
+	path = Type-C.pretty
+	url = https://github.com/ai03-2725/Type-C.pretty
+[submodule "random-keyboard-parts.pretty"]
+	path = random-keyboard-parts.pretty
+	url = https://github.com/ai03-2725/random-keyboard-parts.pretty
