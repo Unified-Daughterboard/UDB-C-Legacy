@@ -1,0 +1,10 @@
+### Module positions - created on 8/28/2019 10:54:03 PM ###
+### Printed by Pcbnew version kicad (5.1.2)-1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                 Package                           PosX       PosY       Rot  Side
+J1        HRO-TYPE-C-31-M-12  HRO-TYPE-C-31-M-12-Assembly    39.0000   -30.0000  180.0000  top
+J2        Conn_01x04          JST-SR-4                       39.0000   -46.2500    0.0000  top
+R1        5.1k                R_0603                         33.5000   -40.0000  270.0000  top
+R2        5.1k                R_0603                         44.5000   -40.0000  270.0000  top
+## End
