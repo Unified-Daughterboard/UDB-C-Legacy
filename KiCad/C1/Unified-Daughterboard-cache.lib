@@ -9,7 +9,7 @@ F1 "Connector_Generic_Conn_01x01" 0 -100 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
- Connector*:*
+ Connector*:*_1x??_*
 $ENDFPLIST
 DRAW
 S -50 5 0 -5 1 1 6 N
@@ -58,11 +58,11 @@ X ~ 2 0 -100 30 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# Type-C_HRO-TYPE-C-31-M-12
+# Unified-Daughterboard-rescue_HRO-TYPE-C-31-M-12-Type-C
 #
-DEF Type-C_HRO-TYPE-C-31-M-12 USB 0 40 Y Y 1 F N
+DEF Unified-Daughterboard-rescue_HRO-TYPE-C-31-M-12-Type-C USB 0 40 Y Y 1 F N
 F0 "USB" -200 650 60 H V C CNN
-F1 "Type-C_HRO-TYPE-C-31-M-12" -400 -50 60 V V C CNN
+F1 "Unified-Daughterboard-rescue_HRO-TYPE-C-31-M-12-Type-C" -400 -50 60 V V C CNN
 F2 "" 0 0 60 H I C CNN
 F3 "" 0 0 60 H I C CNN
 DRAW
