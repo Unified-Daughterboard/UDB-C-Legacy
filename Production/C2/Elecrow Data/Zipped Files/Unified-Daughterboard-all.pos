@@ -1,0 +1,15 @@
+### Module positions - created on Wed 08 Jan 2020 02:05:00 AM -03 ###
+### Printed by Pcbnew version kicad 5.1.5
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val                 Package                           PosX       PosY       Rot  Side
+C1        10n                 C_0603_1608Metric              81.8665   -63.0950  180.0000  top
+C2        10n                 C_0603_1608Metric              68.1505   -67.7940    0.0000  top
+D1        ESD5451XZ-2/TR      D_0603_1608Metric              68.1505   -64.2380  180.0000  top
+J1        HRO-TYPE-C-31-M-12  HRO-TYPE-C-31-M-12-Assembly    75.0045   -56.5430  180.0000  top
+J2        JST-SR-4            JST-SR-4                       75.0045   -72.7930    0.0000  top
+R1        5.1k                R_0603                         77.4215   -66.0160    0.0000  top
+R2        5.1k                R_0603                         72.4685   -66.0160  180.0000  top
+R3        1M                  R_0603_1608Metric              81.8665   -64.7460  180.0000  top
+R4        1M                  R_0603_1608Metric              68.1505   -66.0160    0.0000  top
+## End
