@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "acheron_Connectors")(type "KiCad")(uri "${KIPRJMOD}/AcheronLibrary/footprints/acheron_Connectors.pretty")(options "")(descr ""))
+  (lib (name "acheron_Components")(type "KiCad")(uri "${KIPRJMOD}/AcheronLibrary/footprints/acheron_Components.pretty")(options "")(descr ""))
+  (lib (name "Unified-Daughterboard-Logo")(type "KiCad")(uri "${KIPRJMOD}/Unified-Daughterboard-Logo.pretty")(options "")(descr ""))
+)
