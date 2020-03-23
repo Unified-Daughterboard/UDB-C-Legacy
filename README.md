@@ -1,7 +1,11 @@
 # Unified Daughterboard Project
 
-<img align="center" width="430" height="163" src="https://raw.githubusercontent.com/Gondolindrim/Unified-Daughterboard/C3/Images/unifiedName.png">
-<img align="center" width="430" height="430" src="https://raw.githubusercontent.com/Gondolindrim/Unified-Daughterboard/C3/Images/unifiedName.png">
+<p align="center">
+  <img width="430" height="163" src="https://raw.githubusercontent.com/Gondolindrim/Unified-Daughterboard/C3/Images/unifiedName.png">
+</p>
+<p align="center">
+  <img width="430" height="430" src="https://raw.githubusercontent.com/Gondolindrim/Unified-Daughterboard/C3/Images/starsLogo.png">
+</p>
 
 ## Introduction
 The Unified Daughterboard Project is an attempt by leading designers in the mechanical keyboard community to standardize the USB daughterboards used for their custom mechanical keyboard projects. It has initially been envisioned by users ai03, Wilba, Hineybush, Xelus, Xondat, aeryxz and Maximillian.
