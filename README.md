@@ -29,7 +29,7 @@ Adittionally, the C3 version is backwards compatible with both C1 and C2 version
 The figure below shows the schematic of the C3 version.
 
 <p align="center">
-  <img width="475" height="241" src="https://raw.githubusercontent.com/Gondolindrim/Unified-Daughterboard/C3/Images/C3-schematic.png">
+  <img width="713" height="362" src="https://raw.githubusercontent.com/Gondolindrim/Unified-Daughterboard/C3/Images/C3-schematic.png">
 </p>
 
 * U1 is the ESD protection for the USB data lines. It is a ultra-fast, low-capacitance chip specifically designed for USB type C connectors. When one of the data lines presents a sudden voltage spike, this chip promptly grounds it -- avoiding damage to the circuit that uses these lines;
