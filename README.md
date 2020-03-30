@@ -40,6 +40,9 @@ The figure below shows the schematic of the C3 version.
 * The daughterboard features four screw holes used to fix it into a metal chassis. The top left mounting hole is shorted to the power ground signal; this means that the metal chassis of the keyboard will be grounded. However, the other three screw holes are not shorted to the power ground and are effectively isolated from that signal. This ensures that, in a discharge event emerging from the user providing charge to the system, the discharge current will have a single path through the daughterboard to the power ground; inductor L1 ensures that the discharge current is kept in the power ground plance and does not follow through to the signal ground.
 
 
+## Designer/Consumer info and references
+[View the wiki](https://github.com/ai03-2725/Unified-Daughterboard/wiki)
+
 ## Previews
 ![Render](https://raw.githubusercontent.com/Gondolindrim/Unified-Daughterboard/C3/Images/Daughterboard-C3-Top.png)
 ![Render](https://raw.githubusercontent.com/Gondolindrim/Unified-Daughterboard/C3/Images/Daughterboard-C3-Bottom.png)
