@@ -1,0 +1,23 @@
+Component,Description,Part,References,Value,Footprint,Quantity Per PCB,Datasheet,Package,LCSC Part No,Manufacturer Part No,Manufacturer
+1,Bidirectional transient-voltage-suppression diode,D_TVS,D1,SMF9.0CA,D_SOD-123_Bidirectional,1,~,SOD-123F-B,C123799,SMF9.0CA,Microdiode Electronics
+2,"Resettable fuse, polymeric positive temperature coefficient",Polyfuse,F1,ASMD1206-150,Fuse_1206_3216Metric,1,~,F1206,C135342,ASMD1206-150,Shenzhen JDT Fuse
+3,"Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x04,J2,SM04B-SRSS-TB(LF)(SN),JST-SR-4,1,~,,C160404,SM04B-SRSS-TB(LF)(SN),JST Sales America
+4,,TYPE-C-31-M12_13,J1,TYPE-C-31-M12_13,TYPE-C-31-M-12,1,,,C165948,TYPE-C-31-M-12,Korean Hroparts
+5,Inductor with ferrite core,L_Core_Ferrite,L1,60R@100MHz,L_1206_3216Metric,1,~,L1206,C33600,MLB3216-600P4A(f),MELED Industrial
+6,"Resistor, small symbol",R_Small,R1 R2,5.1k,R_0603,2,~,R0603,,,
+7,,TPD4E05U06DQAR,U1,TPD4E05U06DQAR,USON-10_2.5x1.0mm_P0.5mm,1,,uSON-10,C138714,TPD4E05U06DQAR,Texas Instruments
+
+
+
+
+
+Component Groups:,7
+Component Count:,8
+Fitted Components:,8
+Number of PCBs:,1
+Total components:,8
+Schematic Version:,C3
+Schematic Date:,2020-03-22
+BoM Date:,4/18/2020 9:20:34 PM
+Schematic Source:,C:\Users\Ryota Goto\Documents\GitHub\Unified-Daughterboard\KiCad\C3\Unified-Daughterboard.sch
+KiCad Version:,Eeschema (5.1.4)-1
