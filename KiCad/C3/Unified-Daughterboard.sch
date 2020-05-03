@@ -1,5 +1,5 @@
 EESchema Schematic File Version 5
-EELAYER 30 0
+EELAYER 34 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
@@ -37,6 +37,10 @@ Wire Wire Line
 Wire Wire Line
 	1575 3775 1575 3800
 Wire Wire Line
+	2175 1100 2175 1175
+Wire Wire Line
+	2175 1175 2175 1275
+Wire Wire Line
 	2175 1675 2225 1675
 Wire Wire Line
 	2175 1875 2225 1875
@@ -57,15 +61,31 @@ Wire Wire Line
 Wire Wire Line
 	3825 2025 3875 2025
 Wire Wire Line
+	3875 1425 3875 1525
+Wire Wire Line
+	3875 2025 3875 1925
+Wire Wire Line
 	3975 3300 3975 3350
 Wire Wire Line
+	3975 3350 4075 3350
+Wire Wire Line
+	4375 3350 4475 3350
+Wire Wire Line
 	4475 3350 4475 3400
+Wire Wire Line
+	4475 3350 4600 3350
+Wire Wire Line
+	4475 3700 4475 3775
+Wire Wire Line
+	4875 1425 4875 1525
 Wire Wire Line
 	4875 1525 4925 1525
 Wire Wire Line
 	4875 1625 4925 1625
 Wire Wire Line
 	4875 1825 4925 1825
+Wire Wire Line
+	4875 1925 4875 2025
 Wire Wire Line
 	4875 1925 4925 1925
 Wire Wire Line
@@ -75,10 +95,6 @@ Wire Wire Line
 Wire Wire Line
 	9225 2900 9225 2950
 Wire Wire Line
-	2175 1100 2175 1175
-Wire Wire Line
-	4475 3700 4475 3775
-Wire Wire Line
 	9225 2950 9300 2950
 Wire Wire Line
 	9225 3150 9300 3150
@@ -86,54 +102,38 @@ Wire Wire Line
 	9225 3250 9300 3250
 Wire Wire Line
 	9300 3050 9225 3050
-Wire Wire Line
-	2175 1175 2175 1275
-Wire Wire Line
-	3875 1425 3875 1525
-Wire Wire Line
-	3875 2025 3875 1925
-Wire Wire Line
-	3975 3350 4075 3350
-Wire Wire Line
-	4375 3350 4475 3350
-Wire Wire Line
-	4875 1425 4875 1525
-Wire Wire Line
-	4875 1925 4875 2025
-Wire Wire Line
-	4475 3350 4600 3350
-Wire Notes Line width 30
-	700  650  2775 650 
-Wire Notes Line width 30
-	2775 5025 700  5025
-Wire Notes Line width 30
-	3300 625  5375 625 
-Wire Notes Line width 30
-	5375 5000 3300 5000
-Wire Notes Line width 30
-	6075 600  8150 600 
-Wire Notes Line width 30
-	8150 4975 6075 4975
-Wire Notes Line width 30
-	8750 600  10825 600 
-Wire Notes Line width 30
-	10825 4975 8750 4975
 Wire Notes Line width 30
 	700  650  700  5025
 Wire Notes Line width 30
+	700  650  2775 650 
+Wire Notes Line width 30
 	2775 650  2775 5025
+Wire Notes Line width 30
+	2775 5025 700  5025
 Wire Notes Line width 30
 	3300 625  3300 5000
 Wire Notes Line width 30
+	3300 625  5375 625 
+Wire Notes Line width 30
 	5375 625  5375 5000
+Wire Notes Line width 30
+	5375 5000 3300 5000
 Wire Notes Line width 30
 	6075 600  6075 4975
 Wire Notes Line width 30
+	6075 600  8150 600 
+Wire Notes Line width 30
 	8150 600  8150 4975
+Wire Notes Line width 30
+	8150 4975 6075 4975
 Wire Notes Line width 30
 	8750 600  8750 4975
 Wire Notes Line width 30
+	8750 600  10825 600 
+Wire Notes Line width 30
 	10825 600  10825 4975
+Wire Notes Line width 30
+	10825 4975 8750 4975
 Text Notes 2525 5725 2    200  ~ 40
 Connector\nand shield
 Text Notes 4625 5450 2    200  ~ 40
