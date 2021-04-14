@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>C:\Users\Ryota Goto\Documents\GitHub\Unified-Daughterboard\KiCad\C3\Unified-Daughterboard.sch</source>
+    <date>4/18/2020 9:20:34 PM</date>
+    <tool>Eeschema (5.1.4)-1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>Unified Daughterboard</title>
+        <company>Designed by the keyboard community</company>
+        <rev>C3</rev>
+        <date>2020-03-22</date>
+        <source>Unified-Daughterboard.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="R1">
+      <value>5.1k</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Package">R0603</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C91B042</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>5.1k</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Package">R0603</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C91B0D9</tstamp>
+    </comp>
+    <comp ref="G1">
+      <value>Unified-Daughterboard-Logo</value>
+      <footprint>Unified-Daughterboard-Logo:Unified-Daughterboard-Logo.pretty</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E790861</tstamp>
+    </comp>
+    <comp ref="G2">
+      <value>Unified-Daughterboard-Name</value>
+      <footprint>Unified-Daughterboard-Logo:Unified-Daughterboard-Name.pretty</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E780029</tstamp>
+    </comp>
+    <comp ref="L1">
+      <value>60R@100MHz</value>
+      <footprint>Inductor_SMD:L_1206_3216Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC Part No">C33600</field>
+        <field name="Manufacturer">MELED Industrial</field>
+        <field name="Manufacturer Part No">MLB3216-600P4A(f)</field>
+        <field name="Package">L1206</field>
+      </fields>
+      <libsource lib="Device" part="L_Core_Ferrite" description="Inductor with ferrite core"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E78FF8F</tstamp>
+    </comp>
+    <comp ref="MH1">
+      <value>Mount-M2</value>
+      <footprint>random-keyboard-parts:Generic-Mounthole</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C91EC0E</tstamp>
+    </comp>
+    <comp ref="MH2">
+      <value>Mount-M2</value>
+      <footprint>random-keyboard-parts:Generic-Mounthole</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C91EC94</tstamp>
+    </comp>
+    <comp ref="MH3">
+      <value>Mount-M2</value>
+      <footprint>random-keyboard-parts:Generic-Mounthole</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C91ECC0</tstamp>
+    </comp>
+    <comp ref="MH4">
+      <value>Mount-M2</value>
+      <footprint>random-keyboard-parts:Generic-Mounthole</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C91ECE4</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>SMF9.0CA</value>
+      <footprint>acheron_Components:D_SOD-123_Bidirectional</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC Part No">C123799</field>
+        <field name="Manufacturer">Microdiode Electronics</field>
+        <field name="Manufacturer Part No">SMF9.0CA</field>
+        <field name="Package">SOD-123F-B</field>
+      </fields>
+      <libsource lib="Device" part="D_TVS" description="Bidirectional transient-voltage-suppression diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E18209E</tstamp>
+    </comp>
+    <comp ref="F1">
+      <value>ASMD1206-150</value>
+      <footprint>Fuse:Fuse_1206_3216Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC Part No">C135342</field>
+        <field name="Manufacturer">Shenzhen JDT Fuse</field>
+        <field name="Manufacturer Part No">ASMD1206-150</field>
+        <field name="Package">F1206</field>
+      </fields>
+      <libsource lib="Device" part="Polyfuse" description="Resettable fuse, polymeric positive temperature coefficient"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E78A38E</tstamp>
+    </comp>
+    <comp ref="J2">
+      <value>SM04B-SRSS-TB(LF)(SN)</value>
+      <footprint>random-keyboard-parts:JST-SR-4</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC Part No">C160404</field>
+        <field name="Manufacturer">JST Sales America</field>
+        <field name="Manufacturer Part No">SM04B-SRSS-TB(LF)(SN)</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C91AFCB</tstamp>
+    </comp>
+    <comp ref="U1">
+      <value>TPD4E05U06DQAR</value>
+      <footprint>acheron_Components:USON-10_2.5x1.0mm_P0.5mm</footprint>
+      <fields>
+        <field name="LCSC Part No">C138714</field>
+        <field name="Manufacturer">Texas Instruments</field>
+        <field name="Manufacturer Part No">TPD4E05U06DQAR</field>
+        <field name="Package">uSON-10</field>
+      </fields>
+      <libsource lib="acheronSymbols" part="TPD4E05U06DQAR" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E787D68</tstamp>
+    </comp>
+    <comp ref="J1">
+      <value>TYPE-C-31-M12_13</value>
+      <footprint>acheron_Connectors:TYPE-C-31-M-12</footprint>
+      <fields>
+        <field name="LCSC Part No">C165948</field>
+        <field name="Manufacturer">Korean Hroparts</field>
+        <field name="Manufacturer Part No">TYPE-C-31-M-12</field>
+      </fields>
+      <libsource lib="acheronSymbols" part="TYPE-C-31-M12_13" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E77A5D1</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector_Generic" part="Conn_01x01">
+      <description>Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x01</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x04">
+      <description>Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x04</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_TVS">
+      <description>Bidirectional transient-voltage-suppression diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_TVS</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A1" type="passive"/>
+        <pin num="2" name="A2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="L_Core_Ferrite">
+      <description>Inductor with ferrite core</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L_Core_Ferrite</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Polyfuse">
+      <description>Resettable fuse, polymeric positive temperature coefficient</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>*polyfuse*</fp>
+        <fp>*PTC*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">F</field>
+        <field name="Value">Polyfuse</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small">
+      <description>Resistor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+      </fields>
+    </libpart>
+    <libpart lib="acheronSymbols" part="TPD4E05U06DQAR">
+      <footprints>
+        <fp>USON*2.5x1.0mm*P0.5mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TPD4E05U06DQAR</field>
+        <field name="Footprint">Package_SON:USON-10_2.5x1.0mm_P0.5mm</field>
+        <field name="Manufacturer">Texas Instruments</field>
+        <field name="Manufacturer Part #">TPD4E05U06DQAR</field>
+        <field name="LCSC Part #">C138714</field>
+        <field name="Package">uSON-10</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IO1" type="BiDi"/>
+        <pin num="2" name="IO2" type="BiDi"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="D2+" type="BiDi"/>
+        <pin num="5" name="D2-" type="BiDi"/>
+        <pin num="6" name="NC" type="BiDi"/>
+        <pin num="7" name="NC" type="BiDi"/>
+        <pin num="8" name="GND" type="power_in"/>
+        <pin num="9" name="NC" type="BiDi"/>
+        <pin num="10" name="NC" type="BiDi"/>
+      </pins>
+    </libpart>
+    <libpart lib="acheronSymbols" part="TYPE-C-31-M12_13">
+      <footprints>
+        <fp>USB*C*Receptacle*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">TYPE-C-31-M12_13</field>
+        <field name="Footprint">acheronConnectors:TYPE-C-31-M-12</field>
+      </fields>
+      <pins>
+        <pin num="A1" name="GND" type="power_out"/>
+        <pin num="A4" name="VBUS" type="power_out"/>
+        <pin num="A5" name="CC1" type="BiDi"/>
+        <pin num="A6" name="D+" type="BiDi"/>
+        <pin num="A7" name="D-" type="BiDi"/>
+        <pin num="A8" name="SBU1" type="BiDi"/>
+        <pin num="B1" name="GND" type="power_out"/>
+        <pin num="B4" name="VBUS" type="power_out"/>
+        <pin num="B5" name="CC2" type="BiDi"/>
+        <pin num="B6" name="D+" type="BiDi"/>
+        <pin num="B7" name="D-" type="BiDi"/>
+        <pin num="B8" name="SBU2" type="BiDi"/>
+        <pin num="S" name="SHIELD" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Connector_Generic.lib</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Device.lib</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Mechanical.lib</uri>
+    </library>
+    <library logical="acheronSymbols">
+      <uri>C:\Users\Ryota Goto\Documents\GitHub\Unified-Daughterboard\KiCad\C3/AcheronLibrary/symbols/acheronSymbols.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="GNDPWR">
+      <node ref="MH2" pin="1"/>
+      <node ref="U1" pin="8"/>
+      <node ref="J1" pin="A1"/>
+      <node ref="J1" pin="B1"/>
+      <node ref="U1" pin="3"/>
+      <node ref="J1" pin="S"/>
+      <node ref="D1" pin="1"/>
+      <node ref="R1" pin="2"/>
+      <node ref="R2" pin="2"/>
+      <node ref="L1" pin="2"/>
+    </net>
+    <net code="2" name="GND">
+      <node ref="L1" pin="1"/>
+      <node ref="J2" pin="4"/>
+    </net>
+    <net code="3" name="Net-(MH1-Pad1)">
+      <node ref="MH1" pin="1"/>
+    </net>
+    <net code="4" name="Net-(J1-PadA8)">
+      <node ref="J1" pin="A8"/>
+    </net>
+    <net code="5" name="Net-(J1-PadA5)">
+      <node ref="J1" pin="A5"/>
+      <node ref="R1" pin="1"/>
+    </net>
+    <net code="6" name="VBUS">
+      <node ref="F1" pin="1"/>
+      <node ref="J1" pin="A4"/>
+      <node ref="J1" pin="B4"/>
+    </net>
+    <net code="7" name="Net-(J1-PadB5)">
+      <node ref="R2" pin="1"/>
+      <node ref="J1" pin="B5"/>
+    </net>
+    <net code="8" name="Net-(J1-PadB8)">
+      <node ref="J1" pin="B8"/>
+    </net>
+    <net code="9" name="Net-(MH3-Pad1)">
+      <node ref="MH3" pin="1"/>
+    </net>
+    <net code="10" name="Net-(MH4-Pad1)">
+      <node ref="MH4" pin="1"/>
+    </net>
+    <net code="11" name="DA-">
+      <node ref="U1" pin="5"/>
+      <node ref="J2" pin="2"/>
+      <node ref="J1" pin="B7"/>
+      <node ref="U1" pin="9"/>
+      <node ref="J1" pin="A7"/>
+      <node ref="U1" pin="6"/>
+      <node ref="U1" pin="2"/>
+    </net>
+    <net code="12" name="DA+">
+      <node ref="J2" pin="3"/>
+      <node ref="J1" pin="B6"/>
+      <node ref="J1" pin="A6"/>
+      <node ref="U1" pin="7"/>
+      <node ref="U1" pin="4"/>
+      <node ref="U1" pin="1"/>
+      <node ref="U1" pin="10"/>
+    </net>
+    <net code="13" name="VCC">
+      <node ref="J2" pin="1"/>
+      <node ref="F1" pin="2"/>
+      <node ref="D1" pin="2"/>
+    </net>
+  </nets>
+</export>
