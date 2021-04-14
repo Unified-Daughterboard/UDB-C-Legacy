@@ -1,3 +1,4 @@
 (sym_lib_table
-  (lib (name "acheronSymbols")(type "Legacy")(uri "${KIPRJMOD}/AcheronLibrary/symbols/acheronSymbols.lib")(options "")(descr ""))
+  (lib (name acheronSymbols)(type Legacy)(uri ${KIPRJMOD}/AcheronLibrary/symbols/acheronSymbols.lib)(options "")(descr ""))
+  (lib (name random-keyboard-parts)(type Legacy)(uri "${KIPRJMOD}/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
 )
