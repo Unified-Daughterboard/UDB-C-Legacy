@@ -1,0 +1,11 @@
+(module halfSideHole (layer F.Cu) (tedit 5D40A9CE)
+  (fp_text reference G*** (at 3 -5) (layer Edge.Cuts) hide
+    (effects (font (size 1.524 1.524) (thickness 0.3)))
+  )
+  (fp_text value LOGO (at 3 5) (layer Edge.Cuts) hide
+    (effects (font (size 1.524 1.524) (thickness 0.3)))
+  )
+  (fp_line (start 0 -4) (end 0 4) (layer Cmts.User) (width 0.1))
+  (fp_line (start -6 0) (end 6 0) (layer Cmts.User) (width 0.1))
+  (pad "" thru_hole oval (at 0 0) (size 10 4.5) (drill oval 8 2.5) (layers *.Cu *.Mask))
+)

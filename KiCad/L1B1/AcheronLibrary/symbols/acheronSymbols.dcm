@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Rotary_Encoder_Switch_Chassis
+D Rotary encoder, dual channel, incremental quadrate outputs, with switch
+K rotary switch encoder switch push button
+F ~
+$ENDCMP
+#
+$CMP SK6812MINI-E
+F https://ecksteinimg.de/Datasheet/LED/LED0011/SK6812MINI-E_REV02_EN.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,15 @@
+(module MoutingHole_Oval_7mm_5.0x2.5mm (layer F.Cu) (tedit 5D40AA66)
+  (attr virtual)
+  (fp_text reference HOLE (at 0.1753 5.7861) (layer F.SilkS) hide
+    (effects (font (size 1.524 1.524) (thickness 0.3048)))
+  )
+  (fp_text value H** (at 0.17526 -4.9022) (layer F.SilkS) hide
+    (effects (font (size 1.524 1.524) (thickness 0.3048)))
+  )
+  (pad 1 thru_hole oval (at 0 0) (size 6.5 4) (drill oval 5 2.5) (layers *.Cu *.Mask))
+  (model cherry_mx1.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+)
