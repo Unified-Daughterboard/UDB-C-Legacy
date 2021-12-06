@@ -7,3 +7,6 @@
 [submodule "KiCad/C3/AcheronLibrary"]
 	path = KiCad/C3/AcheronLibrary
 	url = http://github.com/Gondolindrim/AcheronLibrary
+[submodule "KiCad/C3R/AcheronLibrary"]
+	path = KiCad/C3R/AcheronLibrary
+	url = https://github.com/AcheronProject/AlexandriaLibrary
