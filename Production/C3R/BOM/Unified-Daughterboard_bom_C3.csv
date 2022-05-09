@@ -4,7 +4,7 @@ Component,Description,Part,References,Value,Footprint,Quantity Per PCB,Datasheet
 3,"Connector, JST SR series, 1.0mm pitch, 4 pin",Conn_01x04,J2,SM04B-SRSS-TB(LF)(SN),JST-SR-4,1,~,,C160404,SM04B-SRSS-TB(LF)(SN),JST Sales America
 4,"USB Connector, Type-C, 2.0",TYPE-C-31-M12_13,J1,TYPE-C-31-M12_13,TYPE-C-31-M-12,1,,,C165948,TYPE-C-31-M-12,Korean Hroparts
 5,Inductor with ferrite core,L_Core_Ferrite,L1,60R@100MHz,L_1206_3216Metric,1,~,L1206,C33600,MLB3216-600P4A(f),MELED Industrial
-6,Resistor,R_Small,R1 R2,5.1k,R_0603,2,~,R0603,,,
+6,Resistor,R_Small,R1 R2,5.1k,R_0603,2,~,R0603,C101083,,
 7,ESD Protection IC,TPD4E05U06DQAR,U1,TPD4E05U06DQAR,USON-10_2.5x1.0mm_P0.5mm,1,,uSON-10,C138714,TPD4E05U06DQAR,Texas Instruments
 ,,,,,,,,,,,
 ,,,,,,,,,,,
