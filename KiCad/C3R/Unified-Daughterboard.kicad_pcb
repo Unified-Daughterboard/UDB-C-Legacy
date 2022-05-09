@@ -353,7 +353,7 @@
     )
   )
 
-  (module acheron_Connectors:TYPE-C-31-M-12 (layer F.Cu) (tedit 5DF7FEB0) (tstamp 0)
+  (module acheron_Connectors:TYPE-C-31-M-12 (layer F.Cu) (tedit 5DF7FEB0) (tstamp 62794A5E)
     (at 75.0025 64.843 180)
     (path /00000000-0000-0000-0000-00005e77a5d1)
     (attr smd)
