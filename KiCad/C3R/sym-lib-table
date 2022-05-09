@@ -1,3 +1,4 @@
 (sym_lib_table
-  (lib (name "acheronSymbols")(type "Legacy")(uri "${KIPRJMOD}/AcheronLibrary/symbols/acheronSymbols.lib")(options "")(descr ""))
+  (lib (name acheronSymbols)(type Legacy)(uri ${KIPRJMOD}/AcheronLibrary/symbols/acheronSymbols.lib)(options "")(descr ""))
+  (lib (name Unified-Daughterboard-rescue)(type Legacy)(uri ${KIPRJMOD}/Unified-Daughterboard-rescue.lib)(options "")(descr ""))
 )
