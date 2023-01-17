@@ -1,4 +1,14 @@
-# Unified Daughterboard Project
+# Unified Daughterboard Legacy C Series
+
+# Notice
+The **C3 series daughterboard has been deprecated** with the launch of the [C4 series](https://github.com/Unified-Daughterboard/UDB-C).  
+This repository will be kept up for the sake of the ability to maintain legacy keyboards, but the legacy C3 daughterboard is now not-for-new-designs - **please use the newer daughterboards instead for new keyboard projects**.  
+  
+In addition, documentation has moved to the new [documentation site](https://unified-daughterboard.github.io/).  
+
+---
+
+## Original Readme
 
 <p align="center">
   <img width="430" height="163" src="https://raw.githubusercontent.com/Gondolindrim/Unified-Daughterboard/C3/Images/unifiedName.png">
@@ -14,7 +24,7 @@ The main characteristic of this daughterboard is to integrate a USB Type C conne
 
 ## C3 version
 
-In its latest version, C3, this daughterboard features:
+In its current version, C3, this daughterboard features:
 
 * ESD (Electrostatic Discharge) protection on the data lines of the USB connector through a specialized chip;
 * Overcurrent protection through a PTC fuse;
@@ -41,7 +51,7 @@ The figure below shows the schematic of the C3 version.
 
 
 ## Designer/Consumer info and references
-[View the wiki](https://github.com/ai03-2725/Unified-Daughterboard/wiki)
+[Visit the docs](https://unified-daughterboard.github.io/)  
 
 ## Previews
 ![Render](https://raw.githubusercontent.com/Gondolindrim/Unified-Daughterboard/C3/Images/Daughterboard-C3-Top.png)
